@@ -13,6 +13,13 @@ As a platform rooted in data-driven approaches, Kolektif.digital emphasizes the 
 
 Ultimately, Kolektif.digital serves as a catalyst for innovation and progress in Haiti by harnessing the power of collaboration and technology. By bringing together technologists, researchers, and problem solvers, it enables the creation of sustainable, data-driven solutions that can drive positive change and improve the lives of people across the country.
 
+## Want to Query the database?
+Use the folling credentials to query the database:
+DB_USERNAME=piblik
+DB_PASSWORD=1gratisAyiti
+DB_HOST=default.695110602608.us-east-2.redshift-serverless.amazonaws.com
+DB_NAME=dev
+
 
 ## Data Sources
 - https://data.humdata.org/
