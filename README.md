@@ -12,3 +12,7 @@ Furthermore, Kolektif.digital promotes capacity building and skill development t
 As a platform rooted in data-driven approaches, Kolektif.digital emphasizes the importance of responsible data usage and privacy. It adheres to strict ethical guidelines and safeguards the integrity and confidentiality of sensitive data, ensuring that all projects and collaborations are conducted in an ethical and secure manner.
 
 Ultimately, Kolektif.digital serves as a catalyst for innovation and progress in Haiti by harnessing the power of collaboration and technology. By bringing together technologists, researchers, and problem solvers, it enables the creation of sustainable, data-driven solutions that can drive positive change and improve the lives of people across the country.
+
+
+## Data Sources
+- https://data.humdata.org/
