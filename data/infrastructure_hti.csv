@@ -1,0 +1,695 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Haiti,HTI,2021,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,2000000
+Haiti,HTI,2020,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,2000000
+Haiti,HTI,2019,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,21200000
+Haiti,HTI,2018,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,29400000
+Haiti,HTI,2017,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,24800000
+Haiti,HTI,2016,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,22500000
+Haiti,HTI,2015,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,27000000
+Haiti,HTI,2014,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,27000000
+Haiti,HTI,2013,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,26000000
+Haiti,HTI,2012,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,25500000
+Haiti,HTI,2011,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,24200000
+Haiti,HTI,2010,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,16550000
+Haiti,HTI,2009,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9460000
+Haiti,HTI,2008,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9390000
+Haiti,HTI,2007,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9410000
+Haiti,HTI,2006,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9920000
+Haiti,HTI,2005,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9250000
+Haiti,HTI,2004,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,17080000
+Haiti,HTI,2003,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,12600000
+Haiti,HTI,2002,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,10300000
+Haiti,HTI,2001,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,18000000
+Haiti,HTI,2000,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,30000000
+Haiti,HTI,1999,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,38000000
+Haiti,HTI,1998,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,32000000
+Haiti,HTI,1997,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,61600000
+Haiti,HTI,2021,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.80240845359217
+Haiti,HTI,2020,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.55557716119755
+Haiti,HTI,2019,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.99273455394562
+Haiti,HTI,2018,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.17198148082065
+Haiti,HTI,2017,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.69165371634967
+Haiti,HTI,2016,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.55112322642441
+Haiti,HTI,2015,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.73180994781355
+Haiti,HTI,2014,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.85061413266651
+Haiti,HTI,2013,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.98774106671994
+Haiti,HTI,2012,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.64484954339242
+Haiti,HTI,2011,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.45176271393041
+Haiti,HTI,2010,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.65340220914844
+Haiti,HTI,2009,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.9585512425779
+Haiti,HTI,2008,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.19906955286182
+Haiti,HTI,2007,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.65991209987943
+Haiti,HTI,2006,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.11524776981385
+Haiti,HTI,2005,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,6.35913653238004
+Haiti,HTI,2004,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,12.5828790334463
+Haiti,HTI,2003,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,9.26402470406588
+Haiti,HTI,2002,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,7.02256766891662
+Haiti,HTI,2001,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,12.9496402877698
+Haiti,HTI,2000,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,17.4418604651163
+Haiti,HTI,1999,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,20.2127659574468
+Haiti,HTI,1998,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,17.877094972067
+Haiti,HTI,1997,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,35.4634427173287
+Haiti,HTI,2019,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2018,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2017,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2016,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2015,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2014,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2013,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2012,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2011,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2010,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2009,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.3793103448
+Haiti,HTI,2008,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.8655846155
+Haiti,HTI,2007,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,84.359914268
+Haiti,HTI,2006,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,84.8625011361
+Haiti,HTI,2005,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,85.3735538537
+Haiti,HTI,2004,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,85.8932881426
+Haiti,HTI,2003,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,86.4219271168
+Haiti,HTI,2002,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,86.9597016017
+Haiti,HTI,2001,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,87.50685047
+Haiti,HTI,2000,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,88.0636209958
+Haiti,HTI,1999,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,88.6302692266
+Haiti,HTI,1998,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,89.2070603768
+Haiti,HTI,1997,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,89.7942692408
+Haiti,HTI,1996,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.3921806301
+Haiti,HTI,1995,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,91.0010898334
+Haiti,HTI,1994,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,91.6813207274
+Haiti,HTI,1993,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,92.4530801501
+Haiti,HTI,1992,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,93.3361740407
+Haiti,HTI,1991,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.3565669966
+Haiti,HTI,2019,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2018,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2017,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2016,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2015,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2014,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2013,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2012,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2011,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2010,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2009,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,13.1034482759
+Haiti,HTI,2008,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,12.8187299475
+Haiti,HTI,2007,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,12.5292951145
+Haiti,HTI,2006,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,12.2350256011
+Haiti,HTI,2005,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,11.9357992504
+Haiti,HTI,2004,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,11.631489755
+Haiti,HTI,2003,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,11.3219664795
+Haiti,HTI,2002,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,11.0070942734
+Haiti,HTI,2001,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,10.6867332743
+Haiti,HTI,2000,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,10.360738701
+Haiti,HTI,1999,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,10.028960635
+Haiti,HTI,1998,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,9.6912437908
+Haiti,HTI,1997,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,9.3474272735
+Haiti,HTI,1996,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,8.9973443234
+Haiti,HTI,1995,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,8.6408220458
+Haiti,HTI,1994,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,7.9214680266
+Haiti,HTI,1993,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,7.105321263
+Haiti,HTI,1992,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,6.1714366877
+Haiti,HTI,1991,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0923563629
+Haiti,HTI,2019,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2018,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2017,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2016,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2015,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2014,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2013,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2012,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2011,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2010,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2009,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.5172413793
+Haiti,HTI,2008,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.315685437
+Haiti,HTI,2007,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,3.1107906176
+Haiti,HTI,2006,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.9024732627
+Haiti,HTI,2005,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.6906468959
+Haiti,HTI,2004,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.4752221024
+Haiti,HTI,2003,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.2561064037
+Haiti,HTI,2002,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.0332041249
+Haiti,HTI,2001,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,1.8064162556
+Haiti,HTI,2000,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,1.5756403032
+Haiti,HTI,1999,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,1.3407701384
+Haiti,HTI,1998,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,1.1016958324
+Haiti,HTI,1997,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8583034856
+Haiti,HTI,1996,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.6104750466
+Haiti,HTI,1995,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.3580881208
+Haiti,HTI,1994,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.397211246
+Haiti,HTI,1993,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.4415985869
+Haiti,HTI,1992,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.4923892716
+Haiti,HTI,1991,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.5510766405
+Haiti,HTI,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.45
+Haiti,HTI,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4381857143
+Haiti,HTI,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4263714286
+Haiti,HTI,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4145571429
+Haiti,HTI,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.4027428571
+Haiti,HTI,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3909285714
+Haiti,HTI,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3791142857
+Haiti,HTI,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3673
+Haiti,HTI,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3554857143
+Haiti,HTI,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3436714286
+Haiti,HTI,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3318571429
+Haiti,HTI,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3200428571
+Haiti,HTI,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.3082285714
+Haiti,HTI,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.2964142857
+Haiti,HTI,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.2846
+Haiti,HTI,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.208425
+Haiti,HTI,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.13225
+Haiti,HTI,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.056075
+Haiti,HTI,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.9799
+Haiti,HTI,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.1478434689014
+Haiti,HTI,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.0570132567079
+Haiti,HTI,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.9661830445145
+Haiti,HTI,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.8753528323211
+Haiti,HTI,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.7845226193588
+Haiti,HTI,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.6936924071654
+Haiti,HTI,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.6028621949719
+Haiti,HTI,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.5120319827785
+Haiti,HTI,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.4212017705851
+Haiti,HTI,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.3303715583916
+Haiti,HTI,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.2395413461982
+Haiti,HTI,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.148711133236
+Haiti,HTI,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,10.0578809210425
+Haiti,HTI,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,9.96705070884908
+Haiti,HTI,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,9.87622049665565
+Haiti,HTI,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,9.29057430614285
+Haiti,HTI,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,8.70492811563004
+Haiti,HTI,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,8.11928192511725
+Haiti,HTI,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,7.53363573460444
+Haiti,HTI,2019,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2018,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2017,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2016,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2015,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2014,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2013,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2012,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2011,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2010,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2009,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2008,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2007,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2006,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2005,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2004,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2003,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2002,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2001,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2000,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1999,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1998,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1997,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1996,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1995,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1994,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1993,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1992,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1991,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1990,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1989,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1988,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1987,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1986,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1985,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1984,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1983,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1982,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1981,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1980,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1979,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1978,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1977,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1976,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1975,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1974,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1973,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1972,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1971,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1970,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1969,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1968,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1967,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1966,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1965,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1964,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1963,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1962,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,1961,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,13.007
+Haiti,HTI,2019,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1165.45605109764
+Haiti,HTI,2018,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1181.12084527099
+Haiti,HTI,2017,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1197.3073609595
+Haiti,HTI,2016,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1214.03615078017
+Haiti,HTI,2015,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1231.28542241174
+Haiti,HTI,2014,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1249.14287689888
+Haiti,HTI,2013,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1267.58979402616
+Haiti,HTI,2012,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1286.73391871961
+Haiti,HTI,2011,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1306.6699135008
+Haiti,HTI,2010,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1321.46282388894
+Haiti,HTI,2009,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1336.70577407155
+Haiti,HTI,2008,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1358.39837865279
+Haiti,HTI,2007,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1380.66449799625
+Haiti,HTI,2006,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1403.69045296239
+Haiti,HTI,2005,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1427.47396262031
+Haiti,HTI,2004,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1451.4329036168
+Haiti,HTI,2003,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1476.01434140789
+Haiti,HTI,2002,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1501.69496300083
+Haiti,HTI,2001,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1528.12683863958
+Haiti,HTI,2000,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1555.81937089014
+Haiti,HTI,1999,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1584.49183640131
+Haiti,HTI,1998,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1613.59233514488
+Haiti,HTI,1997,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1643.29972867298
+Haiti,HTI,1996,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1673.87482525465
+Haiti,HTI,1995,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1705.31809616909
+Haiti,HTI,1994,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1737.48889774383
+Haiti,HTI,1993,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1770.63793061201
+Haiti,HTI,1992,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1805.07870070971
+Haiti,HTI,1991,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1840.77253856643
+Haiti,HTI,1990,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1878.17737520416
+Haiti,HTI,1989,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1917.25992351891
+Haiti,HTI,1988,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1957.42366506701
+Haiti,HTI,1987,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1998.50991395821
+Haiti,HTI,1986,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2040.28268118901
+Haiti,HTI,1985,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2082.60648120202
+Haiti,HTI,1984,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2125.3504123902
+Haiti,HTI,1983,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2168.65055315011
+Haiti,HTI,1982,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2212.94645986412
+Haiti,HTI,1981,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2258.08249266475
+Haiti,HTI,1980,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2303.47907335218
+Haiti,HTI,1979,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2349.35083536789
+Haiti,HTI,1978,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2395.98413385827
+Haiti,HTI,1977,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2443.16729300182
+Haiti,HTI,1976,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2490.64500180187
+Haiti,HTI,1975,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2538.16913061804
+Haiti,HTI,1974,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2585.54954705672
+Haiti,HTI,1973,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2632.6175792548
+Haiti,HTI,1972,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2680.13320099227
+Haiti,HTI,1971,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2728.88075607222
+Haiti,HTI,1970,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2778.79137209527
+Haiti,HTI,1969,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2829.67435793347
+Haiti,HTI,1968,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2881.47601044394
+Haiti,HTI,1967,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2934.31837275386
+Haiti,HTI,1966,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2988.08922410991
+Haiti,HTI,1965,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3043.03720707813
+Haiti,HTI,1964,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3099.59919920865
+Haiti,HTI,1963,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3155.30801065435
+Haiti,HTI,1962,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3211.9983089287
+Haiti,HTI,1961,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,3272.25558965256
+Haiti,HTI,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,57000000
+Haiti,HTI,2003,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,5520000
+Haiti,HTI,1995,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,4700000
+Haiti,HTI,1998,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,1000000
+Haiti,HTI,2014,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,57210000
+Haiti,HTI,2009,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,1000000
+Haiti,HTI,2009,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,57000000
+Haiti,HTI,2003,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,5520000
+Haiti,HTI,1995,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,4700000
+Haiti,HTI,2014,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,57210000
+Haiti,HTI,2009,Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD,1000000
+Haiti,HTI,2014,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1189
+Haiti,HTI,2013,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1114
+Haiti,HTI,2012,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1202
+Haiti,HTI,2011,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1288
+Haiti,HTI,2010,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1365
+Haiti,HTI,2009,"Trademark applications, nonresident, by count",IP.TMK.NRCT,981
+Haiti,HTI,2008,"Trademark applications, nonresident, by count",IP.TMK.NRCT,925
+Haiti,HTI,2007,"Trademark applications, nonresident, by count",IP.TMK.NRCT,973
+Haiti,HTI,2006,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1173
+Haiti,HTI,2005,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1079
+Haiti,HTI,2004,"Trademark applications, nonresident, by count",IP.TMK.NRCT,830
+Haiti,HTI,2014,"Trademark applications, resident, by count",IP.TMK.RSCT,460
+Haiti,HTI,2013,"Trademark applications, resident, by count",IP.TMK.RSCT,622
+Haiti,HTI,2012,"Trademark applications, resident, by count",IP.TMK.RSCT,567
+Haiti,HTI,2011,"Trademark applications, resident, by count",IP.TMK.RSCT,608
+Haiti,HTI,2010,"Trademark applications, resident, by count",IP.TMK.RSCT,409
+Haiti,HTI,2009,"Trademark applications, resident, by count",IP.TMK.RSCT,600
+Haiti,HTI,2008,"Trademark applications, resident, by count",IP.TMK.RSCT,588
+Haiti,HTI,2007,"Trademark applications, resident, by count",IP.TMK.RSCT,395
+Haiti,HTI,2006,"Trademark applications, resident, by count",IP.TMK.RSCT,225
+Haiti,HTI,2005,"Trademark applications, resident, by count",IP.TMK.RSCT,262
+Haiti,HTI,2004,"Trademark applications, resident, by count",IP.TMK.RSCT,252
+Haiti,HTI,2020,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1563
+Haiti,HTI,1991,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1990,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1989,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1988,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1987,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1986,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1985,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1984,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1983,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1982,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1981,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,800
+Haiti,HTI,1980,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1979,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1978,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1977,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1976,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1975,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1974,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,700
+Haiti,HTI,1973,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3400
+Haiti,HTI,1972,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3200
+Haiti,HTI,1971,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3200
+Haiti,HTI,1970,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3200
+Haiti,HTI,2020,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0
+Haiti,HTI,2019,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0
+Haiti,HTI,1991,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.9000000954
+Haiti,HTI,1990,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.9000000954
+Haiti,HTI,1989,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.9000000954
+Haiti,HTI,1988,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.8000001907
+Haiti,HTI,1987,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.8000001907
+Haiti,HTI,1986,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.8000001907
+Haiti,HTI,1985,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.8000001907
+Haiti,HTI,1984,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5
+Haiti,HTI,1983,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.7999999523
+Haiti,HTI,1982,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.7999999523
+Haiti,HTI,1981,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.7999999523
+Haiti,HTI,1980,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.8999999762
+Haiti,HTI,1979,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.8999999762
+Haiti,HTI,1978,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.7999999523
+Haiti,HTI,1977,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2
+Haiti,HTI,1976,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.8999999762
+Haiti,HTI,1975,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.8999999762
+Haiti,HTI,1974,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.7999999523
+Haiti,HTI,2020,"Air transport, passengers carried",IS.AIR.PSGR,23119
+Haiti,HTI,1991,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1990,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1989,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1988,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1987,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1986,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1985,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1984,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1983,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1982,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1981,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1980,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1979,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1978,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1977,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1976,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1975,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1974,"Air transport, passengers carried",IS.AIR.PSGR,0
+Haiti,HTI,1973,"Air transport, passengers carried",IS.AIR.PSGR,11500
+Haiti,HTI,1972,"Air transport, passengers carried",IS.AIR.PSGR,11000
+Haiti,HTI,1971,"Air transport, passengers carried",IS.AIR.PSGR,10600
+Haiti,HTI,1970,"Air transport, passengers carried",IS.AIR.PSGR,10400
+Haiti,HTI,2021,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,8.6811645566
+Haiti,HTI,2020,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,9.2595097607
+Haiti,HTI,2019,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,10.9737305996
+Haiti,HTI,2018,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,10.7327348337
+Haiti,HTI,2017,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,9.0140980475
+Haiti,HTI,2016,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,11.549036834
+Haiti,HTI,2015,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,10.556902079
+Haiti,HTI,2014,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,9.3293994197
+Haiti,HTI,2013,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,8.7285540924
+Haiti,HTI,2012,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,8.1476889968
+Haiti,HTI,2011,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,6.9883205746
+Haiti,HTI,2010,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,6.5627237836
+Haiti,HTI,2009,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,6.341457695
+Haiti,HTI,2008,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,5.8387455843
+Haiti,HTI,2007,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,3.8295442155
+Haiti,HTI,2006,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,6.6430616383
+Haiti,HTI,2020,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,177042.75
+Haiti,HTI,2019,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,177075.5
+Haiti,HTI,2018,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,177010
+Haiti,HTI,2017,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,177141
+Haiti,HTI,2016,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,176879
+Haiti,HTI,2015,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,178452
+Haiti,HTI,2014,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,175307
+Haiti,HTI,2013,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,172516
+Haiti,HTI,2012,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,164720
+Haiti,HTI,2011,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,189028
+Haiti,HTI,2010,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,176874
+Haiti,HTI,2020,Mobile cellular subscriptions,IT.CEL.SETS,7319000
+Haiti,HTI,2019,Mobile cellular subscriptions,IT.CEL.SETS,6843380
+Haiti,HTI,2018,Mobile cellular subscriptions,IT.CEL.SETS,6602878
+Haiti,HTI,2017,Mobile cellular subscriptions,IT.CEL.SETS,6305862
+Haiti,HTI,2016,Mobile cellular subscriptions,IT.CEL.SETS,6504010
+Haiti,HTI,2015,Mobile cellular subscriptions,IT.CEL.SETS,7300000
+Haiti,HTI,2014,Mobile cellular subscriptions,IT.CEL.SETS,6769312
+Haiti,HTI,2013,Mobile cellular subscriptions,IT.CEL.SETS,7160200
+Haiti,HTI,2012,Mobile cellular subscriptions,IT.CEL.SETS,6094947
+Haiti,HTI,2011,Mobile cellular subscriptions,IT.CEL.SETS,4200000
+Haiti,HTI,2010,Mobile cellular subscriptions,IT.CEL.SETS,4000000
+Haiti,HTI,2009,Mobile cellular subscriptions,IT.CEL.SETS,3648000
+Haiti,HTI,2008,Mobile cellular subscriptions,IT.CEL.SETS,3200000
+Haiti,HTI,2007,Mobile cellular subscriptions,IT.CEL.SETS,2500000
+Haiti,HTI,2006,Mobile cellular subscriptions,IT.CEL.SETS,1200000
+Haiti,HTI,2005,Mobile cellular subscriptions,IT.CEL.SETS,500200
+Haiti,HTI,2004,Mobile cellular subscriptions,IT.CEL.SETS,400000
+Haiti,HTI,2003,Mobile cellular subscriptions,IT.CEL.SETS,320000
+Haiti,HTI,2002,Mobile cellular subscriptions,IT.CEL.SETS,140000
+Haiti,HTI,2001,Mobile cellular subscriptions,IT.CEL.SETS,91500
+Haiti,HTI,2000,Mobile cellular subscriptions,IT.CEL.SETS,55000
+Haiti,HTI,1999,Mobile cellular subscriptions,IT.CEL.SETS,25000
+Haiti,HTI,1998,Mobile cellular subscriptions,IT.CEL.SETS,10000
+Haiti,HTI,1997,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1996,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1995,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1994,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1993,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1992,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1991,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1990,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1989,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1988,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1987,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1986,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1985,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1984,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1983,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1982,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1981,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1980,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1979,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1978,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1977,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1976,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1975,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1970,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1965,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,1960,Mobile cellular subscriptions,IT.CEL.SETS,0
+Haiti,HTI,2020,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,64.73094691
+Haiti,HTI,2019,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,61.31820274
+Haiti,HTI,2018,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,59.95845963
+Haiti,HTI,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,58.04608514
+Haiti,HTI,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,60.7065734
+Haiti,HTI,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,69.10420223
+Haiti,HTI,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,65.00990133
+Haiti,HTI,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,69.77932224
+Haiti,HTI,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,60.29503373
+Haiti,HTI,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,42.19277033
+Haiti,HTI,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,40.63851231
+Haiti,HTI,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,37.48983366
+Haiti,HTI,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,33.41949994
+Haiti,HTI,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,26.53695122
+Haiti,HTI,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,12.95016947
+Haiti,HTI,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,5.489524687
+Haiti,HTI,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,4.463543451
+Haiti,HTI,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,3.63131075
+Haiti,HTI,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.616339623
+Haiti,HTI,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.074987359
+Haiti,HTI,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.65787711
+Haiti,HTI,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.304545982
+Haiti,HTI,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.124055688
+Haiti,HTI,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Haiti,HTI,2020,Fixed telephone subscriptions,IT.MLT.MAIN,6000
+Haiti,HTI,2019,Fixed telephone subscriptions,IT.MLT.MAIN,5952
+Haiti,HTI,2018,Fixed telephone subscriptions,IT.MLT.MAIN,5922
+Haiti,HTI,2017,Fixed telephone subscriptions,IT.MLT.MAIN,5922
+Haiti,HTI,2016,Fixed telephone subscriptions,IT.MLT.MAIN,5692
+Haiti,HTI,2015,Fixed telephone subscriptions,IT.MLT.MAIN,5692
+Haiti,HTI,2014,Fixed telephone subscriptions,IT.MLT.MAIN,41000
+Haiti,HTI,2013,Fixed telephone subscriptions,IT.MLT.MAIN,41000
+Haiti,HTI,2012,Fixed telephone subscriptions,IT.MLT.MAIN,50000
+Haiti,HTI,2011,Fixed telephone subscriptions,IT.MLT.MAIN,50000
+Haiti,HTI,2010,Fixed telephone subscriptions,IT.MLT.MAIN,50000
+Haiti,HTI,2009,Fixed telephone subscriptions,IT.MLT.MAIN,107000
+Haiti,HTI,2008,Fixed telephone subscriptions,IT.MLT.MAIN,108000
+Haiti,HTI,2007,Fixed telephone subscriptions,IT.MLT.MAIN,108340
+Haiti,HTI,2006,Fixed telephone subscriptions,IT.MLT.MAIN,150000
+Haiti,HTI,2005,Fixed telephone subscriptions,IT.MLT.MAIN,145300
+Haiti,HTI,2004,Fixed telephone subscriptions,IT.MLT.MAIN,140000
+Haiti,HTI,2003,Fixed telephone subscriptions,IT.MLT.MAIN,140000
+Haiti,HTI,2002,Fixed telephone subscriptions,IT.MLT.MAIN,130000
+Haiti,HTI,2001,Fixed telephone subscriptions,IT.MLT.MAIN,80000
+Haiti,HTI,2000,Fixed telephone subscriptions,IT.MLT.MAIN,72500
+Haiti,HTI,1999,Fixed telephone subscriptions,IT.MLT.MAIN,70000
+Haiti,HTI,1998,Fixed telephone subscriptions,IT.MLT.MAIN,65000
+Haiti,HTI,1997,Fixed telephone subscriptions,IT.MLT.MAIN,60000
+Haiti,HTI,1996,Fixed telephone subscriptions,IT.MLT.MAIN,60000
+Haiti,HTI,1995,Fixed telephone subscriptions,IT.MLT.MAIN,60000
+Haiti,HTI,1994,Fixed telephone subscriptions,IT.MLT.MAIN,50000
+Haiti,HTI,1993,Fixed telephone subscriptions,IT.MLT.MAIN,45010
+Haiti,HTI,1992,Fixed telephone subscriptions,IT.MLT.MAIN,45010
+Haiti,HTI,1991,Fixed telephone subscriptions,IT.MLT.MAIN,45010
+Haiti,HTI,1990,Fixed telephone subscriptions,IT.MLT.MAIN,45000
+Haiti,HTI,1989,Fixed telephone subscriptions,IT.MLT.MAIN,42200
+Haiti,HTI,1988,Fixed telephone subscriptions,IT.MLT.MAIN,40000
+Haiti,HTI,1987,Fixed telephone subscriptions,IT.MLT.MAIN,37000
+Haiti,HTI,1986,Fixed telephone subscriptions,IT.MLT.MAIN,34000
+Haiti,HTI,1985,Fixed telephone subscriptions,IT.MLT.MAIN,31000
+Haiti,HTI,1984,Fixed telephone subscriptions,IT.MLT.MAIN,28000
+Haiti,HTI,1983,Fixed telephone subscriptions,IT.MLT.MAIN,26000
+Haiti,HTI,1982,Fixed telephone subscriptions,IT.MLT.MAIN,24000
+Haiti,HTI,1981,Fixed telephone subscriptions,IT.MLT.MAIN,20000
+Haiti,HTI,2020,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.053065403
+Haiti,HTI,2019,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.05333124
+Haiti,HTI,2018,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.053775641
+Haiti,HTI,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.054512597
+Haiti,HTI,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.053127504
+Haiti,HTI,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.053882345
+Haiti,HTI,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.393748427
+Haiti,HTI,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.39956317
+Haiti,HTI,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.494631321
+Haiti,HTI,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.502294885
+Haiti,HTI,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.507981404
+Haiti,HTI,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.099619573
+Haiti,HTI,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.127908123
+Haiti,HTI,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.150005318
+Haiti,HTI,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.618771184
+Haiti,HTI,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.594618027
+Haiti,HTI,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.562240208
+Haiti,HTI,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.588698453
+Haiti,HTI,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.500886793
+Haiti,HTI,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.939879658
+Haiti,HTI,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.867201644
+Haiti,HTI,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.85272875
+Haiti,HTI,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.806361973
+Haiti,HTI,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.758037854
+Haiti,HTI,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.772141744
+Haiti,HTI,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.786646312
+Haiti,HTI,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.667905409
+Haiti,HTI,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.612719407
+Haiti,HTI,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.624637444
+Haiti,HTI,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.636989098
+Haiti,HTI,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.64978853
+Haiti,HTI,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.622037124
+Haiti,HTI,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.601959982
+Haiti,HTI,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.568500552
+Haiti,HTI,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.533325218
+Haiti,HTI,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.496354278
+Haiti,HTI,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.457521423
+Haiti,HTI,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.433496689
+Haiti,HTI,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.408324095
+Haiti,HTI,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.347210407
+Haiti,HTI,2020,Fixed broadband subscriptions,IT.NET.BBND,31000
+Haiti,HTI,2019,Fixed broadband subscriptions,IT.NET.BBND,31100
+Haiti,HTI,2018,Fixed broadband subscriptions,IT.NET.BBND,31100
+Haiti,HTI,2017,Fixed broadband subscriptions,IT.NET.BBND,29900
+Haiti,HTI,2016,Fixed broadband subscriptions,IT.NET.BBND,1348
+Haiti,HTI,2015,Fixed broadband subscriptions,IT.NET.BBND,1348
+Haiti,HTI,2014,Fixed broadband subscriptions,IT.NET.BBND,0
+Haiti,HTI,2013,Fixed broadband subscriptions,IT.NET.BBND,0
+Haiti,HTI,2012,Fixed broadband subscriptions,IT.NET.BBND,0
+Haiti,HTI,2020,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.274171247
+Haiti,HTI,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.278662898
+Haiti,HTI,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.282408382
+Haiti,HTI,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.275232466
+Haiti,HTI,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.012581847
+Haiti,HTI,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.012760612
+Haiti,HTI,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0
+Haiti,HTI,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0
+Haiti,HTI,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0
+Haiti,HTI,2020,Secure Internet servers,IT.NET.SECR,87
+Haiti,HTI,2019,Secure Internet servers,IT.NET.SECR,60
+Haiti,HTI,2018,Secure Internet servers,IT.NET.SECR,59
+Haiti,HTI,2017,Secure Internet servers,IT.NET.SECR,50
+Haiti,HTI,2016,Secure Internet servers,IT.NET.SECR,49
+Haiti,HTI,2015,Secure Internet servers,IT.NET.SECR,41
+Haiti,HTI,2014,Secure Internet servers,IT.NET.SECR,25
+Haiti,HTI,2013,Secure Internet servers,IT.NET.SECR,14
+Haiti,HTI,2012,Secure Internet servers,IT.NET.SECR,11
+Haiti,HTI,2011,Secure Internet servers,IT.NET.SECR,4
+Haiti,HTI,2010,Secure Internet servers,IT.NET.SECR,2
+Haiti,HTI,2020,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,7.69448405433155
+Haiti,HTI,2019,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,5.3761330872498
+Haiti,HTI,2018,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,5.35758667417455
+Haiti,HTI,2017,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,4.60255001522063
+Haiti,HTI,2016,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,4.57351974999834
+Haiti,HTI,2015,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,3.88119491957265
+Haiti,HTI,2014,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,2.40090504516583
+Haiti,HTI,2013,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,1.36436204477329
+Haiti,HTI,2012,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,1.08818890642852
+Haiti,HTI,2011,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,0.401835907895995
+Haiti,HTI,2010,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,0.203192561526708
+Haiti,HTI,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.5
+Haiti,HTI,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,33.3
+Haiti,HTI,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,32.47362713
+Haiti,HTI,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,27.2
+Haiti,HTI,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.8
+Haiti,HTI,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.2
+Haiti,HTI,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,11.4
+Haiti,HTI,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.6
+Haiti,HTI,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,9.8
+Haiti,HTI,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,9
+Haiti,HTI,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.37
+Haiti,HTI,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.1
+Haiti,HTI,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.6
+Haiti,HTI,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.2
+Haiti,HTI,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.796000481
+Haiti,HTI,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.376201635
+Haiti,HTI,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.401261908
+Haiti,HTI,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.647358346
+Haiti,HTI,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.893432988
+Haiti,HTI,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.340832326
+Haiti,HTI,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.231270715
+Haiti,HTI,1999,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.070658478
+Haiti,HTI,1998,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.023999477
+Haiti,HTI,1996,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.007484253
+Haiti,HTI,1995,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Haiti,HTI,1994,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Haiti,HTI,1993,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Haiti,HTI,1992,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Haiti,HTI,1991,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Haiti,HTI,1990,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Haiti,HTI,2007,Personal computers (per 100 people),IT.CMP.PCMP.P2,5.26574753394511
+Haiti,HTI,2005,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.174002162846884
+Haiti,HTI,2004,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.176852700601531
+Haiti,HTI,2003,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.168537356417408
+Haiti,HTI,2002,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.159924150260162
+Haiti,HTI,2001,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.151007937325666

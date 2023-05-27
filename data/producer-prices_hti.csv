@@ -1,0 +1,17 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item Code (CPC),Item,Element Code,Element,Year Code,Year,Months Code,Months,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,,#indicator+name,,,,#date+year,,,#indicator+type,#indicator+value+num,
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1991,1991,7021,Annual value,LCU,2530.000000,A
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1992,1992,7021,Annual value,LCU,2882.000000,A
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1993,1993,7021,Annual value,LCU,3278.000000,A
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1994,1994,7021,Annual value,LCU,4928.000000,A
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1995,1995,7021,Annual value,LCU,4466.000000,X
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1991,1991,7021,Annual value,SLC,2530.000000,A
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1992,1992,7021,Annual value,SLC,2882.000000,A
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1993,1993,7021,Annual value,SLC,3278.000000,A
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1994,1994,7021,Annual value,SLC,4928.000000,A
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1995,1995,7021,Annual value,SLC,4466.000000,X
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1991,1991,7021,Annual value,USD,419.300000,A
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1992,1992,7021,Annual value,USD,294.000000,A
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1993,1993,7021,Annual value,USD,255.600000,A
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1994,1994,7021,Annual value,USD,327.700000,A
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1995,1995,7021,Annual value,USD,295.600000,X

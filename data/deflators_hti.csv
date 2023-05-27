@@ -1,0 +1,418 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1970,1970,LCU,1.1083555180,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1971,1971,LCU,1.1402141960,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1972,1972,LCU,1.1578150170,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1973,1973,LCU,1.3869186520,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.5880816880,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.8926498400,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1976,1976,LCU,2.2515144700,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1977,1977,LCU,2.4141578390,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1978,1978,LCU,2.3681984420,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1979,1979,LCU,2.4422671520,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1980,1980,LCU,2.9123628010,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1981,1981,LCU,3.0683167750,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1982,1982,LCU,3.3132188390,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1983,1983,LCU,3.6150701090,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1984,1984,LCU,4.0319469350,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1985,1985,LCU,4.4346139750,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1986,1986,LCU,4.9635357430,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1987,1987,LCU,4.3778703040,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1988,1988,LCU,4.2705267750,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1989,1989,LCU,4.6045122740,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1990,1990,LCU,5.1568580590,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1991,1991,LCU,5.9101715820,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1992,1992,LCU,7.1460473250,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1993,1993,LCU,8.4567474140,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1994,1994,LCU,13.2513474100,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1995,1995,LCU,15.3675232300,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1996,1996,LCU,16.9002661000,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1997,1997,LCU,19.0510401300,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1998,1998,LCU,21.7483505300,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1999,1999,LCU,23.2775687800,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2000,2000,LCU,25.8513608000,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2001,2001,LCU,29.3344233600,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2002,2002,LCU,32.1583898800,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2003,2003,LCU,38.1873145700,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2004,2004,LCU,45.2344023000,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2005,2005,LCU,50.9309763100,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2006,2006,LCU,54.4495178400,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2007,2007,LCU,58.5186114200,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2008,2008,LCU,64.8308205800,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2009,2009,LCU,72.0450193000,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2010,2010,LCU,75.3344989700,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2011,2011,LCU,79.1269034400,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2012,2012,LCU,85.5783032200,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2013,2013,LCU,91.0629004300,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2014,2014,LCU,92.9668387600,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2016,2016,LCU,114.4166134000,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2017,2017,LCU,130.4410026000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2018,2018,LCU,139.1234060000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2019,2019,LCU,165.2396846000,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2020,2020,LCU,211.5992485000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2021,2021,LCU,236.7138086000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1970,1970,US$,11.2401495600,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1971,1971,US$,11.5632375000,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1972,1972,US$,11.7416891800,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1973,1973,US$,14.0651377800,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1974,1974,US$,16.1051761800,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1975,1975,US$,19.1939020700,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1976,1976,US$,22.8332506800,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1977,1977,US$,24.4826634900,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1978,1978,US$,24.0165761300,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1979,1979,US$,24.7677280600,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1980,1980,US$,29.5351021700,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1981,1981,US$,31.1166759200,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1982,1982,US$,33.6002976300,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1983,1983,US$,36.6614574900,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1984,1984,US$,40.8891243200,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1985,1985,US$,44.9726856700,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1986,1986,US$,50.3366322400,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1987,1987,US$,44.3972319200,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1988,1988,US$,43.3086305500,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1989,1989,US$,46.6956728000,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1990,1990,US$,52.2971690100,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1991,1991,US$,49.6644687700,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1992,1992,US$,36.9682562200,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1993,1993,US$,33.4421090000,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1994,1994,US$,44.6760954600,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1995,1995,US$,51.5715381900,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1996,1996,US$,54.5789387200,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1997,1997,US$,58.0029523100,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1998,1998,US$,65.7761581200,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",1999,1999,US$,69.6853160900,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2000,2000,US$,61.9172816600,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2001,2001,US$,60.8882358300,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2002,2002,US$,55.7473536300,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2003,2003,US$,45.7042819000,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2004,2004,US$,59.8058226300,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2005,2005,US$,63.8472285400,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2006,2006,US$,68.3257073400,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2007,2007,US$,80.4979826400,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2008,2008,US$,84.0588517500,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2009,2009,US$,88.6737273400,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2010,2010,US$,95.9847439300,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2011,2011,US$,99.0119230400,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2012,2012,US$,103.4421601000,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2013,2013,US$,106.2397281000,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2014,2014,US$,104.2555331000,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2016,2016,US$,91.6015260500,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2017,2017,US$,102.1187244000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2018,2018,US$,103.6935015000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2019,2019,US$,94.3389871400,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2020,2020,US$,114.7413528000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22024,GDP Deflator,6179,"Value US$, 2015 prices",2021,2021,US$,134.5216165000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1970,1970,LCU,0.7850168220,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1971,1971,LCU,0.8824141200,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1972,1972,LCU,0.8346663750,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1973,1973,LCU,0.9662869060,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.0695424990,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.3097175960,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1976,1976,LCU,1.4431147590,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1977,1977,LCU,1.4666438040,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1978,1978,LCU,1.6061679840,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1979,1979,LCU,1.4697520560,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1980,1980,LCU,1.9128223450,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1981,1981,LCU,1.9200634200,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1982,1982,LCU,2.0239807900,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1983,1983,LCU,2.0787724500,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1984,1984,LCU,2.1504946920,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1985,1985,LCU,2.2396391380,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1986,1986,LCU,2.3686382050,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1987,1987,LCU,2.2363212660,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1988,1988,LCU,2.3279542670,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1989,1989,LCU,2.8117885970,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1990,1990,LCU,3.0445649750,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1991,1991,LCU,4.1619489720,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1992,1992,LCU,4.3416021930,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1993,1993,LCU,4.1099383050,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1994,1994,LCU,6.4166949360,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1995,1995,LCU,9.3620711030,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1996,1996,LCU,10.3432026100,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1997,1997,LCU,9.7014432810,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1998,1998,LCU,12.3973821100,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1999,1999,LCU,11.7105034900,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2000,2000,LCU,10.9406923700,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2001,2001,LCU,13.3065129800,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2002,2002,LCU,19.0101913900,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2003,2003,LCU,37.6839355200,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2004,2004,LCU,29.4676365600,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2005,2005,LCU,28.4800300200,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2006,2006,LCU,39.2350685100,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2007,2007,LCU,28.3839446100,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2008,2008,LCU,39.1131417100,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2009,2009,LCU,52.7813590700,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2010,2010,LCU,79.2749379400,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2011,2011,LCU,89.9585306000,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2012,2012,LCU,99.6345922700,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2013,2013,LCU,92.9433957300,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2014,2014,LCU,86.7649573400,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2016,2016,LCU,139.3712900000,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2017,2017,LCU,180.1677750000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2018,2018,LCU,152.1348440000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2019,2019,LCU,182.4459285000,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2020,2020,LCU,334.7286240000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2021,2021,LCU,436.7419306000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1970,1970,US$,7.9610795750,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1971,1971,US$,8.9488133720,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1972,1972,US$,8.4645586750,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1973,1973,US$,9.7993912240,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1974,1974,US$,10.8465266600,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1975,1975,US$,13.2822198500,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1976,1976,US$,14.6350385400,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1977,1977,US$,14.8736533100,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1978,1978,US$,16.2886078300,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1979,1979,US$,14.9051749700,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1980,1980,US$,19.3984772000,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1981,1981,US$,19.4719110000,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1982,1982,US$,20.5257667100,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1983,1983,US$,21.0814245600,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1984,1984,US$,21.8087802900,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1985,1985,US$,22.7128195500,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1986,1986,US$,24.0210358900,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1987,1987,US$,22.6791720600,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1988,1988,US$,23.6084484700,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1989,1989,US$,28.5151504700,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1990,1990,US$,30.8758021300,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1991,1991,US$,34.9737705300,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1992,1992,US$,22.4601734300,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1993,1993,US$,16.2527030800,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1994,1994,US$,21.6334887800,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1995,1995,US$,31.4179715400,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1996,1996,US$,33.4030848000,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1997,1997,US$,29.5370934200,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1998,1998,US$,37.4948971300,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1999,1999,US$,35.0573612300,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2000,2000,US$,26.2043432000,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2001,2001,US$,27.6197725300,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2002,2002,US$,32.9546306900,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2003,2003,US$,45.1018154000,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2004,2004,US$,38.9600869200,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2005,2005,US$,35.7026532300,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2006,2006,US$,49.2339310800,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2007,2007,US$,39.0448478700,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2008,2008,US$,50.7136227900,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2009,2009,US$,64.9638224600,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2010,2010,US$,101.0053126000,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2011,2011,US$,112.5655968000,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2012,2012,US$,120.4325986000,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2013,2013,US$,108.4336326000,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2014,2014,US$,97.3005751500,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2016,2016,US$,111.5801497000,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2017,2017,US$,141.0484664000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2018,2018,US$,113.3913777000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2019,2019,US$,104.1624120000,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2020,2020,US$,181.5092228000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2021,2021,US$,248.1951976000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1970,1970,LCU,1.0065351800,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1971,1971,LCU,1.0354671250,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1972,1972,LCU,1.0514510260,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1973,1973,LCU,1.2595077960,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.4421907620,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.7187794140,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1976,1976,LCU,2.0446765370,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1977,1977,LCU,2.1923784890,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1978,1978,LCU,2.1506412040,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1979,1979,LCU,2.2179055080,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1980,1980,LCU,2.6448152860,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1981,1981,LCU,2.7864423720,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1982,1982,LCU,3.0088462290,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1983,1983,LCU,3.2829675890,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1984,1984,LCU,3.6615475530,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1985,1985,LCU,4.0272231290,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1986,1986,LCU,4.5075548980,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1987,1987,LCU,3.9756922800,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1988,1988,LCU,3.8992445890,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1989,1989,LCU,4.0670486700,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1990,1990,LCU,4.6689520690,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1991,1991,LCU,5.4024568900,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1992,1992,LCU,7.4599854480,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1993,1993,LCU,7.4313224580,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1994,1994,LCU,11.7065869300,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1995,1995,LCU,10.3486122400,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1996,1996,LCU,9.7156928650,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1997,1997,LCU,12.1941110200,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1998,1998,LCU,14.4935269900,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1999,1999,LCU,17.4827562900,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2000,2000,LCU,20.3952561100,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2001,2001,LCU,22.4117401200,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2002,2002,LCU,24.3054803500,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2003,2003,LCU,28.3303855800,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2004,2004,LCU,33.7762161000,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2005,2005,LCU,39.6679304500,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2006,2006,LCU,44.7127335300,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2007,2007,LCU,49.8993247700,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2008,2008,LCU,58.6179299900,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2009,2009,LCU,66.7392920400,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2010,2010,LCU,71.1253208500,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2011,2011,LCU,77.8112998500,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2012,2012,LCU,83.6491462200,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2013,2013,LCU,87.8417726500,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2014,2014,LCU,90.6926424400,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2016,2016,LCU,120.9340079000,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2017,2017,LCU,145.8968722000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2018,2018,LCU,154.8259315000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2019,2019,LCU,184.8582941000,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2020,2020,LCU,238.0109541000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2021,2021,LCU,294.5726082000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1970,1970,US$,10.2075604600,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1971,1971,US$,10.5009675700,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1972,1972,US$,10.6630255800,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1973,1973,US$,12.7730279300,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1974,1974,US$,14.6256559000,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1975,1975,US$,17.4306324700,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1976,1976,US$,20.7356481900,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1977,1977,US$,22.2335358200,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1978,1978,US$,21.8102661100,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1979,1979,US$,22.4924126100,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1980,1980,US$,26.8218264800,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1981,1981,US$,28.2581071700,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1982,1982,US$,30.5135681400,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1983,1983,US$,33.2935110700,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1984,1984,US$,37.1327985000,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1985,1985,US$,40.8412188600,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1986,1986,US$,45.7124003800,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1987,1987,US$,40.3186298100,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1988,1988,US$,39.5433519600,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1989,1989,US$,41.2451010400,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1990,1990,US$,47.3491751500,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1991,1991,US$,45.3980307900,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1992,1992,US$,38.5923351600,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1993,1993,US$,29.3870779700,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1994,1994,US$,39.4680313800,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1995,1995,US$,34.7286835600,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1996,1996,US$,31.3765595400,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1997,1997,US$,37.1262899600,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1998,1998,US$,43.8345207600,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1999,1999,US$,52.3375705400,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2000,2000,US$,48.8492202300,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2001,2001,US$,46.5191117400,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2002,2002,US$,42.1341433300,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2003,2003,US$,33.9070695000,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2004,2004,US$,44.6565951400,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2005,2005,US$,49.7278396100,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2006,2006,US$,56.1075518500,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2007,2007,US$,68.6413242100,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2008,2008,US$,76.0032935300,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2009,2009,US$,82.1433853800,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2010,2010,US$,90.6217709200,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2011,2011,US$,97.3657011300,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2012,2012,US$,101.1103054000,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2013,2013,US$,102.4817571000,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2014,2014,US$,101.7051877000,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2016,2016,US$,96.8193284500,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2017,2017,US$,114.2187057000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2018,2018,US$,115.3971386000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2019,2019,US$,105.5396848000,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2020,2020,US$,129.0633074000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2021,2021,US$,167.4020779000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1970,1970,LCU,0.7316702980,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1971,1971,LCU,0.7527015000,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1972,1972,LCU,0.7643205120,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1973,1973,LCU,0.9155610870,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.0483569430,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.2494146960,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1976,1976,LCU,1.4863157510,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1977,1977,LCU,1.5936832140,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1978,1978,LCU,1.5633435580,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1979,1979,LCU,1.6122393090,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1980,1980,LCU,1.9225684570,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1981,1981,LCU,2.0255199820,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1982,1982,LCU,2.1871897370,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1983,1983,LCU,2.3864539680,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1984,1984,LCU,2.6616512180,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1985,1985,LCU,2.9274680150,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1986,1986,LCU,3.2766306610,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1987,1987,LCU,2.8900092220,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1988,1988,LCU,2.6766088910,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1989,1989,LCU,3.1540900180,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1990,1990,LCU,3.5915679910,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1991,1991,LCU,3.6116457250,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1992,1992,LCU,4.5077597220,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1993,1993,LCU,6.1522560570,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1994,1994,LCU,13.5287624300,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1995,1995,LCU,23.5585933900,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1996,1996,LCU,18.8521676600,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1997,1997,LCU,16.5730782100,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1998,1998,LCU,17.2066720400,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1999,1999,LCU,20.3967479000,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2000,2000,LCU,21.9293576100,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2001,2001,LCU,26.1655342800,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2002,2002,LCU,27.5775357500,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2003,2003,LCU,35.8859952300,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2004,2004,LCU,43.9110913800,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2005,2005,LCU,48.9853185900,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2006,2006,LCU,54.3996122900,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2007,2007,LCU,58.1366049000,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2008,2008,LCU,71.9076783700,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2009,2009,LCU,76.3408463500,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2010,2010,LCU,74.8058969200,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2011,2011,LCU,80.8885930200,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2012,2012,LCU,88.1988221500,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2013,2013,LCU,92.0202921500,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2014,2014,LCU,95.1797344200,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2016,2016,LCU,111.6129328000,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2017,2017,LCU,123.6885755000,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2018,2018,LCU,140.8281050000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2019,2019,LCU,164.7760542000,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2020,2020,LCU,207.8505433000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2021,2021,LCU,271.1368155000,E
+HTI,1970-01-01,1970-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1970,1970,US$,7.4200772520,E
+HTI,1971-01-01,1971-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1971,1971,US$,7.6333606820,E
+HTI,1972-01-01,1972-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1972,1972,US$,7.7511638360,E
+HTI,1973-01-01,1973-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1973,1973,US$,9.2849662230,E
+HTI,1974-01-01,1974-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1974,1974,US$,10.6316780700,E
+HTI,1975-01-01,1975-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1975,1975,US$,12.6706709300,E
+HTI,1976-01-01,1976-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1976,1976,US$,15.0731521300,E
+HTI,1977-01-01,1977-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1977,1977,US$,16.1619962100,E
+HTI,1978-01-01,1978-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1978,1978,US$,15.8543131000,E
+HTI,1979-01-01,1979-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1979,1979,US$,16.3501788600,E
+HTI,1980-01-01,1980-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1980,1980,US$,19.4973153000,E
+HTI,1981-01-01,1981-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1981,1981,US$,20.5413760900,E
+HTI,1982-01-01,1982-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1982,1982,US$,22.1809152100,E
+HTI,1983-01-01,1983-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1983,1983,US$,24.2017106300,E
+HTI,1984-01-01,1984-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1984,1984,US$,26.9925644700,E
+HTI,1985-01-01,1985-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1985,1985,US$,29.6882884500,E
+HTI,1986-01-01,1986-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1986,1986,US$,33.2292464700,E
+HTI,1987-01-01,1987-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1987,1987,US$,29.3084081400,E
+HTI,1988-01-01,1988-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1988,1988,US$,27.1442544900,E
+HTI,1989-01-01,1989-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1989,1989,US$,31.9865268400,E
+HTI,1990-01-01,1990-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1990,1990,US$,36.4231158000,E
+HTI,1991-01-01,1991-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1991,1991,US$,30.3494515800,E
+HTI,1992-01-01,1992-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1992,1992,US$,23.3197471000,E
+HTI,1993-01-01,1993-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1993,1993,US$,24.3290248100,E
+HTI,1994-01-01,1994-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1994,1994,US$,45.6113829900,E
+HTI,1995-01-01,1995-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1995,1995,US$,79.0597730700,E
+HTI,1996-01-01,1996-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1996,1996,US$,60.8825504500,E
+HTI,1997-01-01,1997-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1997,1997,US$,50.4585292200,E
+HTI,1998-01-01,1998-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1998,1998,US$,52.0402123900,E
+HTI,1999-01-01,1999-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1999,1999,US$,61.0610943900,E
+HTI,2000-01-01,2000-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2000,2000,US$,52.5235875200,E
+HTI,2001-01-01,2001-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2001,2001,US$,54.3107052900,E
+HTI,2002-01-01,2002-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2002,2002,US$,47.8063312200,E
+HTI,2003-01-01,2003-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2003,2003,US$,42.9499602300,E
+HTI,2004-01-01,2004-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2004,2004,US$,58.0562317500,E
+HTI,2005-01-01,2005-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2005,2005,US$,61.4081460300,E
+HTI,2006-01-01,2006-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2006,2006,US$,68.2630836100,E
+HTI,2007-01-01,2007-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2007,2007,US$,79.9724959100,E
+HTI,2008-01-01,2008-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2008,2008,US$,93.2346192900,E
+HTI,2009-01-01,2009-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2009,2009,US$,93.9610740600,E
+HTI,2010-01-01,2010-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2010,2010,US$,95.3112446300,E
+HTI,2011-01-01,2011-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2011,2011,US$,101.2163348000,E
+HTI,2012-01-01,2012-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2012,2012,US$,106.6096935000,E
+HTI,2013-01-01,2013-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2013,2013,US$,107.3566817000,E
+HTI,2014-01-01,2014-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2014,2014,US$,106.7371343000,E
+HTI,2015-01-01,2015-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+HTI,2016-01-01,2016-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2016,2016,US$,89.3569095100,E
+HTI,2017-01-01,2017-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2017,2017,US$,96.8324323100,E
+HTI,2018-01-01,2018-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2018,2018,US$,104.9640729000,E
+HTI,2019-01-01,2019-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2019,2019,US$,94.0742902900,E
+HTI,2020-01-01,2020-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2020,2020,US$,112.7085880000,E
+HTI,2021-01-01,2021-12-31,93,'332,Haiti,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2021,2021,US$,154.0837982000,E
