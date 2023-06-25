@@ -28,6 +28,9 @@ from typing import Optional
 from cachelib.file import FileSystemCache
 from celery.schedules import crontab
 
+from custom_sso_security_manager import CustomSsoSecurityManager
+CUSTOM_SECURITY_MANAGER = CustomSsoSecurityManager
+
 logger = logging.getLogger()
 
 

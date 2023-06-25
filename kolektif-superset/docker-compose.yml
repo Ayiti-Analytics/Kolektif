@@ -25,7 +25,7 @@ version: "3.7"
 services:
 
   superset:
-    env_file: docker/.env-non-dev
+    env_file: docker/.env
     image: *superset-image
     container_name: kolektif-superset_app
     command: ["/app/docker/docker-bootstrap.sh", "app-gunicorn"]
@@ -39,7 +39,7 @@ services:
     image: *superset-image
     container_name: kolektif-superset_init
     command: ["/app/docker/docker-init.sh"]
-    env_file: docker/.env-non-dev
+    env_file: docker/.env
     user: "root"
     volumes: *superset-volumes
     healthcheck:
@@ -49,7 +49,7 @@ services:
     image: *superset-image
     container_name: kolektif-superset_worker
     command: ["/app/docker/docker-bootstrap.sh", "worker"]
-    env_file: docker/.env-non-dev
+    env_file: docker/.env
     restart: unless-stopped
     user: "root"
     volumes: *superset-volumes
@@ -60,7 +60,7 @@ services:
     image: *superset-image
     container_name: kolektif-superset_worker_beat
     command: ["/app/docker/docker-bootstrap.sh", "beat"]
-    env_file: docker/.env-non-dev
+    env_file: docker/.env
     restart: unless-stopped
     user: "root"
     volumes: *superset-volumes
