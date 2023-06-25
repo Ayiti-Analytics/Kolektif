@@ -14,8 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-x-superset-image: &superset-image mmendis/kolektif-superset:${TAG:-version-8.1}
-
+x-superset-image: &superset-image 695110602608.dkr.ecr.us-east-2.amazonaws.com/kolektif-superset:version-6 #mmendis/kolektif-superset:${TAG:-version-6}
+x-superset-depends-on: &superset-depends-on
+  - redis
 x-superset-volumes: &superset-volumes
   # /app/pythonpath_docker will be appended to the PYTHONPATH in the final container
   - ./docker:/app/docker
@@ -23,9 +24,15 @@ x-superset-volumes: &superset-volumes
 
 version: "3.7"
 services:
+  redis:
+    image: redis:7
+    container_name: kolektif-superset_cache
+    restart: unless-stopped
+    volumes:
+      - redis:/data
 
   superset:
-    env_file: docker/.env
+    env_file: docker/.env-non-dev
     image: *superset-image
     container_name: kolektif-superset_app
     command: ["/app/docker/docker-bootstrap.sh", "app-gunicorn"]
@@ -33,13 +40,15 @@ services:
     restart: unless-stopped
     ports:
       - 8088:8088
+    depends_on: *superset-depends-on
     volumes: *superset-volumes
 
   superset-init:
     image: *superset-image
     container_name: kolektif-superset_init
     command: ["/app/docker/docker-init.sh"]
-    env_file: docker/.env
+    env_file: docker/.env-non-dev
+    depends_on: *superset-depends-on
     user: "root"
     volumes: *superset-volumes
     healthcheck:
@@ -49,8 +58,9 @@ services:
     image: *superset-image
     container_name: kolektif-superset_worker
     command: ["/app/docker/docker-bootstrap.sh", "worker"]
-    env_file: docker/.env
+    env_file: docker/.env-non-dev
     restart: unless-stopped
+    depends_on: *superset-depends-on
     user: "root"
     volumes: *superset-volumes
     healthcheck:
@@ -60,8 +70,9 @@ services:
     image: *superset-image
     container_name: kolektif-superset_worker_beat
     command: ["/app/docker/docker-bootstrap.sh", "beat"]
-    env_file: docker/.env
+    env_file: docker/.env-non-dev
     restart: unless-stopped
+    depends_on: *superset-depends-on
     user: "root"
     volumes: *superset-volumes
     healthcheck:
@@ -73,4 +84,4 @@ volumes:
   db_home:
     external: true
   redis:
-    external: true
+    external: false

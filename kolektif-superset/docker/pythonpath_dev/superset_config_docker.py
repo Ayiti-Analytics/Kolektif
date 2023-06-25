@@ -28,7 +28,6 @@ from typing import Optional
 from cachelib.file import FileSystemCache
 from celery.schedules import crontab
 
-
 from custom_sso_security_manager import CustomSsoSecurityManager
 CUSTOM_SECURITY_MANAGER = CustomSsoSecurityManager
 
@@ -65,6 +64,18 @@ SQLALCHEMY_DATABASE_URI = "%s://%s:%s@%s:%s/%s" % (
     DATABASE_PORT,
     DATABASE_DB,
 )
+
+PUBLIC_ROLE_LIKE = "Gamma"
+PUBLIC_ROLE_LIKE_GAMMA = True
+
+SESSION_COOKIE_SAMESITE="None"
+
+# Uncomment to setup Public role name, no authentication needed
+AUTH_ROLE_PUBLIC = 'Public'
+
+# Will allow user self registration
+AUTH_USER_REGISTRATION = True
+
 
 REDIS_HOST = get_env_variable("REDIS_HOST")
 REDIS_PORT = get_env_variable("REDIS_PORT")
@@ -110,31 +121,7 @@ WEBDRIVER_BASEURL = "http://superset:8088/"
 # The base URL for the email report hyperlinks.
 WEBDRIVER_BASEURL_USER_FRIENDLY = WEBDRIVER_BASEURL
 
-SESSION_COOKIE_SAMESITE="None"
-# Embedded config options
-GUEST_ROLE_NAME = "Public"
-GUEST_TOKEN_JWT_SECRET = "test-guest-secret-change-me"
-GUEST_TOKEN_JWT_ALGO = "HS256"
-GUEST_TOKEN_HEADER_NAME = "X-GuestToken"
-GUEST_TOKEN_JWT_EXP_SECONDS = 300  # 5 minutes
-# Guest token audience for the embedded superset, either string or callable
-GUEST_TOKEN_JWT_AUDIENCE = None
-
-
-PUBLIC_ROLE_LIKE = "Gamma"
-PUBLIC_ROLE_LIKE_GAMMA = True
-
 SQLLAB_CTAS_NO_LIMIT = True
-
-#Uncomment to setup Full admin role name
-AUTH_ROLE_ADMIN = 'Admin'
-
-# Uncomment to setup Public role name, no authentication needed
-AUTH_ROLE_PUBLIC = 'Public'
-
-# Will allow user self registration
-AUTH_USER_REGISTRATION = True
-
 
 #
 # Optionally import superset_config_docker.py (which will have been included on
